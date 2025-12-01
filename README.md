@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-### Demo 
 
-https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/
-=======
+
 # bootstrap-template-2025
 I adapted a professional HTML/CSS/Bootstrap template to build a responsive front-end portfolio 
 Project: Responsive Portfolio (HTML · CSS · Bootstrap)
