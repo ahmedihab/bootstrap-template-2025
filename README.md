@@ -19,4 +19,3 @@ Ensuring mobile-first responsiveness: custom breakpoints, optimized images, and 
 Testing across viewport sizes and refining spacing, typography, and alignment so the design remains balanced at every screen width.
 
 This project was intentionally scoped to highlight practical, production-ready front-end techniques: grid-based layouts, responsive design, Bootstrap proficiency, and clean CSS for maintainable UI components.
->>>>>>> 7b001f139a543d36e702f7d97293e69eeb708e5f
